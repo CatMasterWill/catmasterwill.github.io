@@ -1,3 +1,5 @@
+{
+  "servers": [
     {
       "name": "CatMasterWill's Server",
       "address": "http://192.168.178.87"
